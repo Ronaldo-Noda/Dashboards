@@ -1,7 +1,5 @@
 README
 
-Descrição
-
 Bem-vindo ao repositório de Dashboards de Estudo!
 
 Este repositório foi criado para publicar meus dashboards desenvolvidos para estudos utilizando dados fictícios. 

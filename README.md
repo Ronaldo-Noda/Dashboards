@@ -10,6 +10,8 @@ Estrutura do Repositório
 
 /dashboards: Contém todos os dashboards organizados por temas e tópicos abordados durante o curso.
 
-/data: Conjunto de dados fictícios utilizados para a criação dos dashboards.
+/data: Conjunto de dados fictícios utilizados nas aulas durante o curso. 
+
+/data: Dados reais retirados de datasets disponibilizados na internet para a criação dos dashboards.
 
 /scripts: Scripts de código utilizados para processar e visualizar os dados.
